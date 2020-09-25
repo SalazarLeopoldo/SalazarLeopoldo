@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with code and design.
 - 💬 Ask me about sports or gaming.
 - ⚡ Fun fact: I put all of my effort when i like something...
--->
