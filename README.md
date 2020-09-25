@@ -11,3 +11,14 @@
 - 🤔 I’m looking for help with code and design.
 - 💬 Ask me about sports or gaming.
 - ⚡ Fun fact: I put all of my effort when i like something...
+- ⏰ Comparto mi horario de clase:
+
+|     Lunes      |     Martes     |   Miercoles    |     Jueves     |    Viernes   |
+|:--------------:|:--------------:|:--------------:|:--------------:|:------------:|
+|  Ing. de Soft  |  Ing. de Soft  |  Ing. de Soft  |  Ing. de Soft  | Ing. de Soft |
+|   Conm y enru  |   Conm y enru  |   Conm y enru  |   Conm y enru  |  Conm y enru |
+| Taller de Inve | Taller de Inve | Taller de Inve | Taller de Inve |              |
+| Progr, log y F | Progr, log y F | Progr, log y F | Progr, log y F |              |
+|   Sist Progra  |   Sist Progra  |   Sist Progra  |   Sist Progra  |              |
+|  Sist Operati  |  Sist Operati  |  Sist Operati  |  Sist Operati  |              |
+
