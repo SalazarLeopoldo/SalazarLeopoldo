@@ -13,12 +13,11 @@
 - ⚡ Fun fact: I put all of my effort when i like something...
 - ⏰ Comparto mi horario de clase:
 
-|     Lunes      |     Martes     |   Miercoles    |     Jueves     |    Viernes   |
-|:--------------:|:--------------:|:--------------:|:--------------:|:------------:|
-|  Ing. de Soft  |  Ing. de Soft  |  Ing. de Soft  |  Ing. de Soft  | Ing. de Soft |
-|   Conm y enru  |   Conm y enru  |   Conm y enru  |   Conm y enru  |  Conm y enru |
-| Taller de Inve | Taller de Inve | Taller de Inve | Taller de Inve |              |
-| Progr, log y F | Progr, log y F | Progr, log y F | Progr, log y F |              |
-|   Sist Progra  |   Sist Progra  |   Sist Progra  |   Sist Progra  |              |
-|  Sist Operati  |  Sist Operati  |  Sist Operati  |  Sist Operati  |              |
+|   Hora  |     Lunes       |     Martes      |   Miercoles     |     Jueves      |    Viernes      |
+|:-------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+|1:00-2:00| Taller de Inv I |aller de Inv I   |Taller de Inv I  |Taller de Inv I  |                 |
+|3:00-4:00|       FIS       |     FIS         |       FIS       |       FIS       |                 |
+|4:00-5:00|Lenguajes y A II |enguajes y A II  |Lenguajes y A II |Lenguajes y A II |Lenguajes y A II |
+|5:00-6:00|Sist Programables|Sist Programables|Sist Programables|Sist Programables|Sist Programables|
+|6:00-7:00|Redes de Computad|Redes de Computad|Redes de Computad|Redes de Computad|Redes de Computad|
 
