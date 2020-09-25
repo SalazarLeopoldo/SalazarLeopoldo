@@ -1,3 +1,4 @@
+[Banner]: https://images.cooltext.com/5466558.png
 ### Hi, I'm Leo 👋
 
 ## Im a student, currently at 7th Semester of Software Engineer
