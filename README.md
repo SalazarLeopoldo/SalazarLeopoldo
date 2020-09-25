@@ -1,16 +1,16 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5466558.png" width="477" height="106" alt="systems engineer
 " /></a>
 
-### Hi, I'm Leo 👋
+### Hola, soy Leo 👋
 
-## Im a student, currently at 7th Semester of Software Engineer
+## Soy estudiante, actualmente cursando el 7mo semestre de Ingeniería en sistemas
 
-- 🔭 I’m currently working on be a great student.
-- 🌱 I’m currently learning everything about software engineer.
-- 👯 I’m looking to collaborate on eSports!
-- 🤔 I’m looking for help with code and design.
-- 💬 Ask me about sports or gaming.
-- ⚡ Fun fact: I put all of my effort when i like something...
+- 🔭 Trabajo en cada día prepararme más para ser mejor el día de mañana.
+- 🌱 Actualmente trato de aprender lo mejor posible para ser ingeniero en sistemas.
+- 👯 Mi sueño es algún día poder colaborar con los eSports.
+- 🤔 Toda ayuda con código y diseño será bienvenida.
+- 💬 Pregúntame lo que sea acerca de deportes o videojuegos.
+- ⚡ Dato curioso: Cuando algo me gusta le pongo todo mi esfuerzo, pero cuando no…🤭
 - ⏰ Comparto mi horario de clase:
 
 |   Hora  |     Lunes       |     Martes      |   Miercoles     |     Jueves      |    Viernes      |
