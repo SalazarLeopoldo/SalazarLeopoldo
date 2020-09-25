@@ -19,5 +19,5 @@
 |3:00-4:00|       FIS       |     FIS         |       FIS       |       FIS       |                 |
 |4:00-5:00|Lenguajes y A II |enguajes y A II  |Lenguajes y A II |Lenguajes y A II |Lenguajes y A II |
 |5:00-6:00|Sist Programables|Sist Programables|Sist Programables|Sist Programables|Sist Programables|
-|6:00-7:00|Redes de Computad|Redes de Computad|Redes de Computad|Redes de Computad|Redes de Computad|
+|6:00-7:00|Redes de Computad|Redes de Computad|Redes de Computad|Redes de Computad|                 |
 
